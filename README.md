@@ -1,4 +1,4 @@
-🧩 Tarefa - Curso Descodificadas (Modalidade Front-End)
+🧩 #Tarefa - Curso Descodificadas (Modalidade Front-End)
 
 Tarefa desenvolvida no curso Descodificadas (Modalidade Front-End), com foco na aplicação do conceito de Flexbox — um método moderno de layout em CSS que simplifica a organização, alinhamento e distribuição de elementos dentro de um contêiner, mesmo quando seus tamanhos são dinâmicos ou desconhecidos.
 
@@ -16,7 +16,7 @@ CSS — Estilização e implementação do layout Flexbox
 
 ----------
 
-🧩 Task - Descodificadas Course (Front-End Modality)
+🧩 #Task - Descodificadas Course (Front-End Modality)
 
 Task developed in the Descodificadas course (Front-End Modality), focusing on the application of the Flexbox concept — a modern CSS layout method that simplifies the organization, alignment, and distribution of elements within a container, even when their sizes are dynamic or unknown.
 
